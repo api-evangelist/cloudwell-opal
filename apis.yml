@@ -16,7 +16,7 @@ url: https://raw.githubusercontent.com/api-evangelist/cloudwell-opal/refs/heads/
 created: '2024-01-01'
 modified: '2026-04-25'
 specificationVersion: '0.19'
-x-type: company
+kind: company
 tags:
   - AppSource
   - Calendar Overlay
@@ -113,7 +113,7 @@ common:
     url: https://appsource.microsoft.com/en-us/marketplace/apps?search=cloudwell
   - type: Support
     url: https://cloudwell.io/support/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://cloudwell.io/privacy-policy/
 maintainers:
   - FN: Kin Lane
