@@ -11,7 +11,7 @@ description: >-
   suffix in this repository name is preserved for index continuity but
   Cloudwell does not currently ship a product named Opal.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/cloudwell-opal/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-04-25'
@@ -35,7 +35,7 @@ apis:
       - Calendar
       - SharePoint
       - SPFx
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://appsource.microsoft.com/en-us/product/web-apps/cloudwell.cloudwell_calendar_overlay
     properties:
       - url: https://appsource.microsoft.com/en-us/product/web-apps/cloudwell.cloudwell_calendar_overlay
@@ -53,7 +53,7 @@ apis:
       - Directory
       - Org Chart
       - SharePoint
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://cloudwell.io/products/org-chart/
     properties:
       - url: https://cloudwell.io/products/org-chart/
@@ -68,7 +68,7 @@ apis:
       - Directory
       - SharePoint
       - Teams
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://cloudwell.io/products/staff-directory/
     properties:
       - url: https://cloudwell.io/products/staff-directory/
@@ -83,7 +83,7 @@ apis:
       - Groups
       - SharePoint
       - Teams
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://learn.microsoft.com/en-us/microsoft-365-app-certification/sharepoint/cloudwell-team-members
     properties:
       - url: https://learn.microsoft.com/en-us/microsoft-365-app-certification/sharepoint/cloudwell-team-members
@@ -98,7 +98,7 @@ apis:
       - SharePoint
       - Viva Connections
       - Announcements
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://cloudwell.io/products/viva-announcements/
     properties:
       - url: https://cloudwell.io/products/viva-announcements/
