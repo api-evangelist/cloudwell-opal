@@ -107,6 +107,8 @@ apis:
       Viva Announcements lets users view Viva Connections announcements
       anywhere in SharePoint via an SPFx web part. No public REST API.
 common:
+  - type: DomainSecurity
+    url: security/cloudwell-opal-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/cloudwell
   - type: Website
@@ -117,6 +119,8 @@ common:
     url: https://cloudwell.io/support/
   - type: PrivacyPolicy
     url: https://cloudwell.io/privacy-policy/
+  - type: Blog
+    url: https://cloudwell.io/feed/
 maintainers:
   - FN: Kin Lane
     email: kinlane@gmail.com
