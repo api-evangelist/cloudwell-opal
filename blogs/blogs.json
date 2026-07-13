@@ -1,0 +1,21 @@
+{
+  "repo": "cloudwell-opal",
+  "feeds": [
+    {
+      "source": "https://cloudwell.io/feed/",
+      "feed_url": "https://cloudwell.io/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://cloudwell.io/privacy-policy/",
+      "feed_url": "https://cloudwell.io/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 11
+}
