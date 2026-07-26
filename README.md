@@ -25,26 +25,10 @@ AppSource, Calendar Overlay, Microsoft 365, Microsoft Partner, Org Chart, ShareP
 
 Cloudwell does not publish a public REST API. Their products are consumed inside SharePoint Online, Microsoft Teams, and Viva Connections via SharePoint Framework (SPFx) web parts and the Microsoft Graph API. The entries below are product references rather than addressable HTTP APIs.
 
-### Cloudwell Calendar Overlay
 
-- [AppSource Listing](https://appsource.microsoft.com/en-us/product/web-apps/cloudwell.cloudwell_calendar_overlay)
-- [Microsoft 365 App Certification](https://learn.microsoft.com/en-us/microsoft-365-app-certification/sharepoint/cloudwell-calendar-overlay)
 
-### Cloudwell Org Chart
 
-- [Product Page](https://cloudwell.io/products/org-chart/)
 
-### Cloudwell Staff Directory
-
-- [Product Page](https://cloudwell.io/products/staff-directory/)
-
-### Cloudwell Team Members
-
-- [Microsoft 365 App Certification](https://learn.microsoft.com/en-us/microsoft-365-app-certification/sharepoint/cloudwell-team-members)
-
-### Cloudwell Viva Announcements
-
-- [Product Page](https://cloudwell.io/products/viva-announcements/)
 
 ## Common Properties
 
