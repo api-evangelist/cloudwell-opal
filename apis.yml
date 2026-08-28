@@ -11,6 +11,17 @@ description: >-
   suffix in this repository name is preserved for index continuity but
   Cloudwell does not currently ship a product named Opal.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
