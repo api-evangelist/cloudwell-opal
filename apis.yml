@@ -42,7 +42,7 @@ kind: company
 tags:
   - AppSource
   - Calendar Overlay
-  - Microsoft-365
+  - Microsoft 365
   - Microsoft Partner
   - Org Chart
   - SharePoint
@@ -61,6 +61,7 @@ tags_raw:
   - Staff Directory
   - Teams
   - Viva Connections
+  - Microsoft-365
 apis: []
 common:
   - type: DomainSecurity
