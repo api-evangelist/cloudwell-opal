@@ -1,4 +1,4 @@
-# Cloudwell (cloudwell-opal)
+# Cloudwell
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cloudwell ([cloudwell.io](https://cloudwell.io/)) is a Microsoft 365 and Azure-focused software partner founded in 2012, offering a suite of SharePoint and Teams apps distributed through Microsoft AppSource:
+Cloudwell (cloudwell.io) is a Microsoft 365 and Azure-focused software partner founded in 2012, offering a suite of SharePoint and Teams apps: Calendar Overlay, Org Chart, Staff Directory, Team Members, and Viva Announcements - all distributed via Microsoft AppSource. Cloudwell does not publish a public REST API; their products are consumed inside SharePoint Online, Microsoft Teams, and Viva Connections via SharePoint Framework (SPFx) web parts and the Microsoft Graph API. The "opal" suffix in this repository name is preserved for index continuity but Cloudwell does not currently ship a product named Opal.
 
-- **Calendar Overlay** - flagship SharePoint app combining SharePoint lists/libraries, Outlook/Exchange calendars, Planner plans, and iCalendar feeds.
-- **Org Chart** - interactive org hierarchy in SharePoint and Teams.
-- **Staff Directory** - searchable employee directories.
-- **Team Members** - consolidates M365 groups, Teams, SharePoint groups, and Entra ID groups.
-- **Viva Announcements** - displays Viva Connections announcements inside SharePoint.
+**Areas:** AppSource · Calendar Overlay · Microsoft 365 · Microsoft Partner · Org Chart · SharePoint · SPFx · Staff Directory · Team · Viva Connections
 
-> **Note on naming:** the repository slug is `cloudwell-opal` for index continuity. Cloudwell does not currently ship a product named "Opal"; the canonical company is Cloudwell. Microsoft has a separate, unrelated "Project Opal" inside Microsoft 365 Copilot, and Opal Security is a separate company.
+## Cloudwell on APIs.io
 
-**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/cloudwell-opal/refs/heads/main/apis.yml)
+Everything profiled for Cloudwell is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloudwell-opal/](https://apis.io/providers/cloudwell-opal/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+### Published properties
 
-- **Type:** Index
-- **x-type:** company
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Tags
+#### Security (1)
 
-AppSource, Calendar Overlay, Microsoft 365, Microsoft Partner, Org Chart, SharePoint, SPFx, Staff Directory, Teams, Viva Connections
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Cloudwell Opal Domain Security](https://apis.io/security/cloudwell-opal/cloudwell-opal-domain-security/)
 
-Cloudwell does not publish a public REST API. Their products are consumed inside SharePoint Online, Microsoft Teams, and Viva Connections via SharePoint Framework (SPFx) web parts and the Microsoft Graph API. The entries below are product references rather than addressable HTTP APIs.
+## Where to find this API
 
-
-
-
-
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://cloudwell.io/)
-- [AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=cloudwell)
 - [Support](https://cloudwell.io/support/)
+- [Blog](https://cloudwell.io/feed/)
+- [Privacy policy](https://cloudwell.io/privacy-policy/)
 
-## Maintainers
+## API Evangelist rating
 
-- **FN:** Kin Lane
-- **Email:** kinlane@gmail.com
+**Kin Score 7.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cloudwell-opal/](https://apis.io/providers/cloudwell-opal/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cloudwell: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloudwell-opal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
